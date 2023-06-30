@@ -132,7 +132,7 @@ const ClassWiseStatistics: React.FC<ClassWiseStatisticsProps> = ({
     classMode,
 }) => {
     return (
-        <table style={{ borderCollapse: 'collapse' }}>
+        <table>
             <thead>
                 <tr>
                     <th>Measure</th>
