@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 
 ### `Result Screenshots`
 ![ScreenShot](https://i.postimg.cc/4mBcTkj5/table-1.png)
-![ScreenShot](https://i.postimg.cc/4mBcTkj5/table-2.png)
+![ScreenShot](https://i.postimg.cc/nXrDFSJt/table-2.png)
 
 
 ### `yarn build`
