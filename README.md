@@ -20,10 +20,8 @@ You will also see any lint errors in the console.
 
 
 ### `Result Screenshots`
-
-[url=https://postimg.cc/4mBcTkj5][img]https://i.postimg.cc/4mBcTkj5/table-1.png[/img][/url]
-
-[url=https://postimg.cc/nXrDFSJt][img]https://i.postimg.cc/nXrDFSJt/table-2.png[/img][/url]
+![ScreenShot](https://i.postimg.cc/4mBcTkj5/table-1.png)
+![ScreenShot](https://i.postimg.cc/4mBcTkj5/table-2.png)
 
 
 ### `yarn build`
